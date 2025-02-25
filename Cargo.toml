@@ -1,0 +1,10 @@
+[package]
+name = "egui-csgrs-demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+csgrs = "0.14.0"
+eframe = "0.31.0"
+egui = "0.31.0"
+nalgebra = "0.33.2"
